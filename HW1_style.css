@@ -1,0 +1,35 @@
+body {
+	background-color: beige;
+}
+
+.pstyle {	
+	font-size: 20px;
+	text-align :justify;
+	text-indent: 50px;
+}
+
+.hst {
+	text-indent: 30px;
+}
+
+.blue_list {
+	color: darkblue;
+}
+
+table, th, td {
+  	border: 1px solid black;
+  	border-collapse: collapse;
+  	width: 40%;
+  	padding: 5px;
+}
+
+.brown_list {
+	color: brown;
+}
+
+#myButton {
+	color:darkblue;
+	height: 30px;
+	width: 170px;
+	font-size: 15px;
+}
